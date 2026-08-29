@@ -12,9 +12,8 @@ public:
         for (int i=0;i<n-1;i++){
             int ptr=nums[i];
             int ptr1=nums[i+1];
-            if (ptr==ptr1) continue;
             if(ptr+1==ptr1) count ++;
-            //second wali repeated k liye 
+            else if (ptr==ptr1) continue;//second wali repeated k liye 
             
             else{
             //sequence tut gaya to
