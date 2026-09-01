@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
