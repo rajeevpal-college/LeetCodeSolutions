@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
