@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
