@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
