@@ -8,6 +8,14 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+
+ //dummy node bna kr head se connect kro
+ //prev ko dummy p rkho
+ //prev ko left-1 postion taq le jao
+ //4curr pointer set kro
+ //jo reverse hone wale part ka start h
+//loop sirf right nhi right-left chale gi
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
         ListNode dummy;
