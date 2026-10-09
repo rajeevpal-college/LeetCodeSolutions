@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -182,4 +185,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
