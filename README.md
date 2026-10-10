@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -42,12 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sorting
