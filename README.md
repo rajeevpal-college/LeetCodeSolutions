@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -230,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
