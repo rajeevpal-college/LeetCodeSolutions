@@ -35,4 +35,9 @@ class Solution {
 // 3 jab opening bracket mile to stack m closing bracket dal do
 // 4bcz hmey pta chal kis bracket closing ka wait kr rhey h 
 // 5agar current bracket opeinign nhi h to vo closing bracket hoga
+// 6
+// fale condition check kro
+// 1 stack.is EMpty closing bracket aa gaya pr stack khali h opening bracket aaya hi nhi tha
+// 2stack.pop()!=cstack ke pop ,se C match nhi kra 
+// false return 
  
