@@ -41,16 +41,8 @@ class Solution {
                     i=i-j;
                     j=0;
                     }
-                
-                
-               
-            }
-       
-
-
-        // else 
-        return -1;
-        
+        }
+        return -1;  
     }
 }
 
