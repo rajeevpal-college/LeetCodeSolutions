@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -248,4 +250,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
