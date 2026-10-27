@@ -1,21 +1,48 @@
+// kis algorithm type of number ki tarah concept h
+// numbers ?palindrome ?armstrong(diti power num sum) ?perfect(factors )?
+
+
 class Solution {
     public int climbStairs(int n) {
-        // Base cases: if n is 1, 2, or 3, the number of ways is just n
-        if (n <= 3) {
+        // if(n>=4){
+        // // int sum =(n-1)+(n-2);
+        //  int sum =(2n;
+
+
+        // return sum;
+        // }
+        // else if (n==1||n==2){ return n;}
+        // else return n;
+
+        if(n<=3){
             return n;
         }
-        
-        int prev2 = 2; // Ways to reach stair 2
-        int prev1 = 3; // Ways to reach stair 3
-        int current = 0;
-        
-        // Calculate ways for each stair from 4 up to n
-        for (int i = 4; i <= n; i++) {
-            current = prev1 + prev2; // Ways(i) = Ways(i-1) + Ways(i-2)
-            prev2 = prev1;           // Shift window forward
-            prev1 = current;
+
+        int prev2=2;
+        int prev1=3;
+        int current=0;
+
+        for(int i=4;i<=n;i++){
+            current=prev1+prev2;
+            prev2=prev1;
+            prev1=current;
         }
-        
         return current;
     }
 }
+
+
+// class Solution {
+//     public int climbStairs(int n) {
+//         return n;
+        
+//     }
+// }
+
+
+// Aapke pichle code mein int sum = (n - 1) + (n - 2); likha tha. Jab $n = 5$ tha, toh wo seedha numbers ko jod kar $4 + 3 = 7$ de raha tha. Lekin humein stair numbers ($4$ aur $3$) ko nahi jodna tha—humein Stair 4 tak pahunchne ke ways (5) aur Stair 3 tak pahunchne ke ways (3) ko jodna tha ($5 + 3 = 8$).
+
+// 2 fibpnacci series 
+
+
+
