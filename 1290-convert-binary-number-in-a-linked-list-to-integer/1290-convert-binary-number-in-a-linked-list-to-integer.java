@@ -17,28 +17,43 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+    // ListNode decimal=0; wyu galat h ??
+
+
 class Solution {
     public int getDecimalValue(ListNode head) {
-        int n=0;
-        ListNode temp=head;
-        while (temp!=null){
-            n++;
-            temp=temp.next;
-        }
-        int decimal=0,i=n-1; //n-1 kyu:0 1 2 not 123
-
-
+        int decimal=0;
        while(head!=null){
-
-
-        decimal+= head.val*(int)Math.pow(2,i);
-        i--;
-
+        decimal=(decimal*2)+head.val;
         head=head.next;
        }
        return decimal;
     }
 }
+
+// class Solution {
+//     public int getDecimalValue(ListNode head) {
+//         int n=0;
+//         ListNode temp=head;
+//         while (temp!=null){
+//             n++;
+//             temp=temp.next;
+//         }
+//         int decimal=0,i=n-1; //n-1 kyu:0 1 2 not 123
+
+
+//        while(head!=null){
+
+
+//         decimal+= head.val*(int)Math.pow(2,i);
+//         i--;
+
+//         head=head.next;
+//        }
+//        return decimal;
+//     }
+// }
 
 
 // class Solution {
