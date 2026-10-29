@@ -19,29 +19,53 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        // int n=this.size();
-
-        //linked list ki length  , without java.utility
         int n=0;
-        ListNode temp =head; //listnode class data type
-        while(temp!=null){
+        ListNode temp=head;
+        while (temp!=null){
             n++;
-            temp=temp.next; 
+            temp=temp.next;
         }
-        temp=head;
-        int decimal=0;
-        for(int i=n-1;i>=0;i--){ //what wrong with i>1;
-        
-        decimal+= temp.val*(int)Math.pow(2,i);
+        int decimal=0,i=n-1; //n-1 kyu:0 1 2 not 123
 
-        temp=temp.next;
 
-        }
-        return decimal;
+       while(head!=null){
 
-        
+
+        decimal+= head.val*(int)Math.pow(2,i);
+        i--;
+
+        head=head.next;
+       }
+       return decimal;
     }
 }
+
+
+// class Solution {
+//     public int getDecimalValue(ListNode head) {
+//         // int n=this.size();
+
+//         //linked list ki length  , without java.utility
+//         int n=0;
+//         ListNode temp =head; //listnode class data type
+//         while(temp!=null){
+//             n++;
+//             temp=temp.next; 
+//         }
+//         temp=head;
+//         int decimal=0;
+//         for(int i=n-1;i>=0;i--){ //what wrong with i>1;
+        
+//         decimal+= temp.val*(int)Math.pow(2,i);
+
+//         temp=temp.next;
+
+//         }
+//         return decimal;
+
+//     }
+//     }
+
 
 //6 linked list ki length k liye name.size();
 // head: object reference variable name h 
