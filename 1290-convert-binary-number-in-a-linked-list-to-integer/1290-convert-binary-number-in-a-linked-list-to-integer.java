@@ -20,17 +20,34 @@
 
     // ListNode decimal=0; wyu galat h ??
 
-
+    //recursion
 class Solution {
     public int getDecimalValue(ListNode head) {
-        int decimal=0;
-       while(head!=null){
-        decimal=(decimal*2)+head.val;
-        head=head.next;
-       }
-       return decimal;
+       return solve(head,0);
     }
+    public int solve(ListNode head, int decimal){
+        if (head==null){
+        return decimal;}
+    
+
+   return solve(head.next, (decimal*2)+head.val);
+
 }
+}
+
+
+
+
+// class Solution {
+//     public int getDecimalValue(ListNode head) {
+//         int decimal=0;
+//        while(head!=null){
+//         decimal=(decimal*2)+head.val;
+//         head=head.next;
+//        }
+//        return decimal;
+//     }
+// }
 
 // class Solution {
 //     public int getDecimalValue(ListNode head) {
