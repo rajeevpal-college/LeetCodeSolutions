@@ -99,6 +99,21 @@ class Solution {
 //     }
 
 
+
+// class Solution {
+//     public int getDecimalValue(ListNode head) {
+//         return solve(head, 0);
+//     }
+    
+//     public int solve(ListNode head, int decimal) {
+//         if (head == null) { // Yahan '{' lagayein
+//             return decimal;
+//         }
+//         return solve(head.next, (decimal * 2) + head.val);
+//     }
+// }
+
+
 //6 linked list ki length k liye name.size();
 // head: object reference variable name h 
 // Listnode:class data type 
