@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0344-reverse-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
