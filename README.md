@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## String
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
@@ -117,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -154,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
