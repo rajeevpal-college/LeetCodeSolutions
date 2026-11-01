@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## String
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
