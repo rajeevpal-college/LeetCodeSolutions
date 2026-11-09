@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Union-Find
@@ -289,4 +291,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
