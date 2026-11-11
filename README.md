@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
