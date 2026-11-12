@@ -22,11 +22,11 @@ class Solution {
             
         }
         // Simple '+' wala tareeka (Samajhne mein aasan, bas 5-6ms leta hai)
-if (start != nums[i]) {
-    result.add(start + "->" + nums[i]);
-} else {
+        if (start != nums[i]) {
+             result.add(start + "->" + nums[i]);
+            } else {
     result.add(String.valueOf(start)); // int ko String bana ke daala
-}
+    }
         //  StringBuilder sb = new StringBuilder();
         //     sb.append(start);
         //     if (start != nums[i]) {
