@@ -1,18 +1,27 @@
+// List kese create krtey h 
+// ArrayIndexOutOfBoundsException error
+//string builder se sting kese banate h? append,add
+// result.add(sb.toString());
+// StringBuilder vs String
+
+// result.add(sb); likhoge, toh Java error dega (incompatible types: StringBuilder cannot be converted to String
+
+// .toString() use 
+
 class Solution {
     public List<String> summaryRanges(int[] nums) {
-        List<String> result = new ArrayList<>();
-        int n = nums.length;
-        
-        for (int i = 0; i < n; i++) {
-            int start = nums[i];
-            
-            // Advance i while the next number is consecutive
-            while (i + 1 < n && nums[i + 1] == nums[i] + 1) {
+
+        List<String> result=new ArrayList<>();
+
+        int n=nums.length;
+        for (int i=0;i<n;i++){
+            int start=nums[i];
+//next number consecutive ki cond'n
+            while(i+1<n && nums[i+1]==nums[i]+1){
                 i++;
-            }
             
-            // Use StringBuilder for 0ms string construction
-            StringBuilder sb = new StringBuilder();
+        }
+         StringBuilder sb = new StringBuilder();
             sb.append(start);
             if (start != nums[i]) {
                 sb.append("->").append(nums[i]);
@@ -23,3 +32,12 @@ class Solution {
         return result;
     }
 }
+
+// int start =nums[i];
+// while(i+1<n && nums[i+1]==nums[i]+1){
+//     i++;
+// }
+// start+"->" +nums[i]
+
+
+// 2loop lage gi 
