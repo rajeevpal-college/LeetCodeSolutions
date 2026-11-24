@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajeevpal-college/LeetCodeSolutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
