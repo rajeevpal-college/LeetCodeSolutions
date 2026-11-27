@@ -11,7 +11,7 @@ class Solution {
     public boolean isPowerOfFour(int n) {
         int num= n;
         int power=0;
-        while (num>1){
+        while (num>=4){
             num=num/4;
             power++;
 
